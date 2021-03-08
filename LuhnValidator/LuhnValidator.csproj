@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>AxelCreations.Soft.Validators.LuhnValidator</PackageId>
+    <Authors>AxelCreations</Authors>
+    <Company>AxelCreations</Company>
+    <Description>Credit Cards and Identification numbers Validator. Based on the Luhn Algorithm.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType></RepositoryType>
+    <RepositoryUrl>https://github.com/AxelCreations/LuhnValidator</RepositoryUrl>
+    <PackageTags>Validator, Luhn Algorithm, Luhn, CreditCard, Personal ID, AxelCreations</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
