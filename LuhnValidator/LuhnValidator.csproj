@@ -7,10 +7,12 @@
     <Company>AxelCreations</Company>
     <Description>Credit Cards and Identification numbers Validator. Based on the Luhn Algorithm.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryType></RepositoryType>
+    <RepositoryType>Class Library</RepositoryType>
     <RepositoryUrl>https://github.com/AxelCreations/LuhnValidator</RepositoryUrl>
     <PackageTags>Validator, Luhn Algorithm, Luhn, CreditCard, Personal ID, AxelCreations</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>AxelCreations 2021</Copyright>
+    <PackageReleaseNotes>Simple methods to perform the Credit Cards and Identification numbers validation</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>

@@ -8,8 +8,10 @@
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <description>Credit Cards and Identification numbers Validator. Based on the Luhn Algorithm.</description>
+    <releaseNotes>Simple methods to perform the Credit Cards and Identification numbers validation</releaseNotes>
+    <copyright>AxelCreations 2021</copyright>
     <tags>Validator, Luhn Algorithm, Luhn, CreditCard, Personal ID, AxelCreations</tags>
-    <repository url="https://github.com/AxelCreations/LuhnValidator" />
+    <repository type="Class Library" url="https://github.com/AxelCreations/LuhnValidator" />
     <dependencies>
       <group targetFramework="net5.0" />
     </dependencies>
