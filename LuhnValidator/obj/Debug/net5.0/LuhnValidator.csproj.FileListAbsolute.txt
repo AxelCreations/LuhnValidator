@@ -1,0 +1,12 @@
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\bin\Debug\net5.0\LuhnValidator.deps.json
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\bin\Debug\net5.0\LuhnValidator.dll
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\bin\Debug\net5.0\ref\LuhnValidator.dll
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\bin\Debug\net5.0\LuhnValidator.pdb
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.csprojAssemblyReference.cache
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.AssemblyInfoInputs.cache
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.AssemblyInfo.cs
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.csproj.CoreCompileInputs.cache
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.dll
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\ref\LuhnValidator.dll
+C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\obj\Debug\net5.0\LuhnValidator.pdb
