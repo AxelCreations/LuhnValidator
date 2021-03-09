@@ -16,7 +16,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\AxelCreations\\BackEnd\\LuhnValidator\\LuhnValidator\\LuhnValidator.csproj",
-      "projectName": "AxelCreations.Soft.Validators.LuhnValidator",
+      "projectName": "AxelCreations.Validators.LuhnValidator",
       "projectPath": "C:\\AxelCreations\\BackEnd\\LuhnValidator\\LuhnValidator\\LuhnValidator.csproj",
       "packagesPath": "C:\\Users\\AxelCreations\\.nuget\\packages\\",
       "outputPath": "C:\\AxelCreations\\BackEnd\\LuhnValidator\\LuhnValidator\\obj\\",

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <PackageId>AxelCreations.Soft.Validators.LuhnValidator</PackageId>
+    <PackageId>AxelCreations.Validators.LuhnValidator</PackageId>
     <Authors>AxelCreations</Authors>
     <Company>AxelCreations</Company>
     <Description>Credit Cards and Identification numbers Validator. Based on the Luhn Algorithm.</Description>

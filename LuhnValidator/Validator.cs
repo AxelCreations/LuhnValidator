@@ -7,14 +7,12 @@ namespace LuhnValidator
         // Public validator for Credit Cards
         public static bool CreditCard(string cardNumber)
         {
-            // 5446-2500-6001-9595
             return cardNumber.Length >= 16 && ValidateNumber(cardNumber);
         }
 
         // Public validator for Dominicans Personal Identification Number
-        public static bool IDNumber(string idNumber)
+        public static bool PersonalID(string idNumber)
         {
-            // 002-5495647-2
             return idNumber.Length >= 11 && ValidateNumber(idNumber);
         }
 
