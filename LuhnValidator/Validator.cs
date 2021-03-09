@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LuhnValidator
+namespace AxelCreations.Validators.LuhnValidator
 {
     public static class Validate
     {

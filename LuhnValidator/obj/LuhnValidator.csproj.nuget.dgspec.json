@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\AxelCreations\\BackEnd\\LuhnValidator\\LuhnValidator\\LuhnValidator.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.0.1",
       "restore": {
         "projectUniqueName": "C:\\AxelCreations\\BackEnd\\LuhnValidator\\LuhnValidator\\LuhnValidator.csproj",
         "projectName": "AxelCreations.Validators.LuhnValidator",

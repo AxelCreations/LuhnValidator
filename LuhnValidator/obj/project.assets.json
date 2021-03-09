@@ -13,7 +13,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.0.1",
     "restore": {
       "projectUniqueName": "C:\\AxelCreations\\BackEnd\\LuhnValidator\\LuhnValidator\\LuhnValidator.csproj",
       "projectName": "AxelCreations.Validators.LuhnValidator",
