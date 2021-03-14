@@ -17,6 +17,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\bin\Debug\net5.0\LuhnValidator.dll" target="lib\net5.0\LuhnValidator.dll" />
+    <file src="C:\AxelCreations\BackEnd\LuhnValidator\LuhnValidator\bin\Release\net5.0\LuhnValidator.dll" target="lib\net5.0\LuhnValidator.dll" />
   </files>
 </package>
